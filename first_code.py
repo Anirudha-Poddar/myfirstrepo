@@ -4,7 +4,7 @@ b = 20
 c = 10
 
 # Add the variables
-result1 = a + b + c
+result = a + b + c
 
 # Print the result
-print("The sum of a , b and c is:", result1)
+print("The sum of a , b and c is:", result)
