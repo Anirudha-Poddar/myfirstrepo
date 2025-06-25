@@ -1,5 +1,5 @@
 # Define two variables
-a = 56
+a = 5
 b = 20
 c = 19
 
