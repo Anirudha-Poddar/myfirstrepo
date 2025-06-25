@@ -1,7 +1,7 @@
 # Define two variables
 a = 56
 b = 20
-c = 15
+c = 19
 
 # Add the variables
 result1 = a + b + c
